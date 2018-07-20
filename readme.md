@@ -1,10 +1,13 @@
-# robinson [![explain](http://llever.com/explain.svg)](https://github.com/chinanf-boy/Source-Explain)
+# [robinson][commit] [![explain]][source] [![translate-svg]][translate-list]
+
+[explain]: http://llever.com/explain.svg
+[source]: https://github.com/chinanf-boy/Source-Explain
+[translate-svg]: http://llever.com/translate.svg
+[translate-list]: https://github.com/chinanf-boy/chinese-translate-list
 
 「 使用 `rust` 构建自己的网络渲染引擎 **robinson-罗宾逊** 」
 
-[github source](https://github.com/mbrubeck/robinson)
-
-[中文](./readme.md) | [english](http://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
+[commit]: https://github.com/mbrubeck/robinson/tree/dfd5c3b3f88ebe10c5286414e87dea9bda60f611
 
 欢迎 `Issue` 和 `Pull` ❤️, 最好 `Pull` 👏
 
@@ -24,7 +27,7 @@
 - ⏰ 2018 7.13 开始
 
 -   [x] [robinson/readme.md](README.zh.md)
--   [ ] [第1部分: 入门](0.zh.md)
+-   [x] [第1部分: 入门](0.zh.md)
 -   [ ] [第2部分: HTML](1.zh.md)
 -   [ ] [第3部分: CSS](2.zh.md)
 -   [ ] [第4部分: 风格](3.zh.md)
