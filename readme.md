@@ -28,7 +28,7 @@
 
 -   [x] [robinson/readme.md](README.zh.md)
 -   [x] [第1部分: 入门](0.zh.md)
--   [ ] [第2部分: HTML](1.zh.md)
+-   [x] [第2部分: HTML](1.zh.md)
 -   [ ] [第3部分: CSS](2.zh.md)
 -   [ ] [第4部分: 风格](3.zh.md)
 -   [ ] [第5部分: 盒子](4.zh.md)
