@@ -67,7 +67,7 @@
 
 有关详细信息,请参阅[ Let's build a browser engine!, `en`][blog],基于这个项目的一系列`how-to`文章. 
 
-[blog]: http://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html
+[blog]: http://limpet.net0.zh.md
 
 或者 [让我们构建一个浏览器引擎! 中文 - ./0.zh.md](./0.zh.md)
 
