@@ -11,13 +11,13 @@
 
 欢迎 `Issue` 和 `Pull` ❤️, 最好 `Pull` 👏
 
-[更多其他中文翻译](https://github.com/chinanf-boy/chinese-translate-list)
+[more]: https://github.com/chinanf-boy/chinese-translate-list
 
 ---
 
 ## 生活
 
-[help me live , live need money 💰](https://github.com/chinanf-boy/live-need-money)
+[If help, **buy** me coffee —— 营养跟不上了，给我来瓶营养快线吧! 💰](https://github.com/chinanf-boy/live-need-money)
 
 ---
 
